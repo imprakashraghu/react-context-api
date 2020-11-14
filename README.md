@@ -6,4 +6,4 @@
 
 ---
 
-Blog Post: [@dev/imprakashraghu](https://dev.to/imprakashraghu/simple-setup-for-react-context-api-4io1-temp-slug-6102482)
+Blog Post: [@dev/imprakashraghu](https://dev.to/imprakashraghu/react-context-api-simple-setup-11mm)
